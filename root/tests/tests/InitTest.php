@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @coversDefaultClass {%php_namespace%}\Init
+ * @coversDefaultClass Init
  *
  * @author    {%author_name%} <{%author_email%}>
  * @copyright {%copyright%}
