@@ -1,5 +1,5 @@
 {
-    "name": "openbuildings/harp-template",
+    "name": "openbuildings/jam-template",
     "description": "Compoer Init Template for Jam Module",
     "license": "BSD-3-Clause",
     "type": "composer-init-template",
