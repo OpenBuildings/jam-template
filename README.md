@@ -1,4 +1,4 @@
-Harp Template
+Jam Template
 =============
 
 Use this to create a new jam modules easily
